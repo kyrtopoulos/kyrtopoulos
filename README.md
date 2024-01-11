@@ -1,12 +1,14 @@
-<img src="https://images2.imgbox.com/1f/04/3BmBf9m7_o.png" alt="dk" width="50px">
+# Dimitris Kyrtopoulos
 
-# Welcome to My GitHub Space! 🚀
+<img src="https://media.licdn.com/dms/image/D4D16AQF_YPcSpkQ07w/profile-displaybackgroundimage-shrink_350_1400/0/1698468338865?e=1710374400&v=beta&t=eLvoHCReFaOSGU4xM-xra6FXvP98nTkCsWyC0lWYJws" alt="dk">
 
-## About Me
+Hi! 👋
 
-Greetings! 👋 I'm a highly experienced and motivated IT professional with over 15 years of expertise in support, systems, networks, and security. I've held management and directorial positions, driving corporate performance and development through innovative strategies, cost-saving initiatives, and solutions aimed at enhancing efficiency.
+I'm Dimitris, a highly experienced and motivated IT professional with over 15 years of expertise in support, systems, networks, and security. 
 
-### Core Specialties
+I've held management and directorial positions, driving corporate performance and development through innovative strategies, cost-saving initiatives, and solutions aimed at enhancing efficiency.
+
+## Core Specialties
 
 -   **Cyber Security**
 -   **Programme and Project Management**
