@@ -1,6 +1,11 @@
 # Dimitris Kyrtopoulos
 
-<img src="https://media.licdn.com/dms/image/D4D16AQF_YPcSpkQ07w/profile-displaybackgroundimage-shrink_350_1400/0/1698468338865?e=1710374400&v=beta&t=eLvoHCReFaOSGU4xM-xra6FXvP98nTkCsWyC0lWYJws" alt="dk">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/74338659?v=4" 
+       alt="Dimitris Kyrtopoulos" 
+       width="200" 
+       height="200">
+</p>
 
 Hi! 👋
 
