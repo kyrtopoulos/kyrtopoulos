@@ -34,9 +34,9 @@ I believe in leading by example, embodying the philosophy of "Always lead by exa
 
 ## Connect with Me
 
-Feel free to explore more about my journey and expertise on my personal website: (https://kyrtopoulos.com/)
+Feel free to explore more about my journey and expertise on my [Personal Website](https://kyrtopoulos.com/)
 
-Connect with me on LinkedIn: (https://www.linkedin.com/in/kyrtopoulos/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kyrtopoulos/)
 
 ## Stay Updated
 
